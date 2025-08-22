@@ -279,4 +279,4 @@ For support or questions, please open an issue in the repository or contact the 
 
 **Healthcare Aid** - Empowering health decisions with AI and data-driven insights.
 
-**Developer: Visweswar** 
+**Developer: Visweswar, Sanjai** 
