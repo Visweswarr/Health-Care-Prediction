@@ -2,7 +2,7 @@
 
 A comprehensive healthcare application with AI-powered disease prediction, insurance estimation, and personalized health management.
 
-**Created by: Visweswar**
+**Created by: Visweswar , Sanjai**
 
 ## Features
 
